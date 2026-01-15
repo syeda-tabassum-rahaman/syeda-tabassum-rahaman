@@ -5,7 +5,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syeda-tabassum-rahaman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-
+    <a href="https://www.linkedin.com/in/syeda-tabassum-rahaman/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:syeda.tabassum.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+  </a>
   <a href="https://github.com/syeda-tabassum-rahaman/scam-job-detector">
     <img src="https://img.shields.io/badge/Featured%20Project-Scam%20Job%20Detector-black?style=flat&logo=github" />
   </a>
