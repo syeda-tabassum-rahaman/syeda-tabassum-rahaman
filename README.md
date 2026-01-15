@@ -3,10 +3,22 @@
   Data Analytics → Machine Learning → Practical GenAI | Germany 🇩🇪
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=syeda-tabassum-rahaman&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/syeda-tabassum-rahaman)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syeda-tabassum-rahaman/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:syeda.tabassum.work@gmail.com)
-[![Featured Project](https://img.shields.io/badge/Featured%20Project-Scam%20Job%20Detector-black?style=flat&logo=github)](https://github.com/syeda-tabassum-rahaman/scam-job-detector)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syeda-tabassum-rahaman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syeda-tabassum-rahaman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:syeda.tabassum.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/syeda-tabassum-rahaman/scam-job-detector">
+    <img src="https://img.shields.io/badge/Featured%20Project-Scam%20Job%20Detector-black?style=flat&logo=github" alt="Featured Project" />
+  </a>
+</p>
+
 
 ---
 
