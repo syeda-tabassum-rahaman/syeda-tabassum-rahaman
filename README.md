@@ -74,7 +74,7 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ## 💼 Experience
 
-### 🎓 <img src="assets/logos/lewagon.png" width="28"/> Le Wagon — Data Science & AI Bootcamp
+### 🎓 <img src="assets/logos/lewagon.png.png" width="28"/> Le Wagon
 
 **Le Wagon** · Data Science & AI Bootcamp  
 📅 Oct 2025 – Dec 2025  
@@ -87,22 +87,16 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ---
 
-### 🧪 <img src="assets/logos/peakwork.png" width="28"/> Peakwork — Software QA Lead
+### 🏢 <img src="assets/logos/peakwork.png.gif" width="28"/> Peakwork GmbH
 
-**Peakwork GmbH** · Düsseldorf, Germany  
-📅 Oct 2022 – Feb 2025  
+**Peakwork** · Software QA Lead/ Senior QA Engineer
+**Oct 2022 – Feb 2025 | Düsseldorf, Germany**
 
-**Software QA Lead** (Mar 2023 – Feb 2025)  
-- Led quality assurance for large-scale **travel data platforms** involving pricing, search, and booking flows.
-- Validated complex **API-driven datasets** with a strong focus on data accuracy and consistency.
-- Designed and expanded **automation frameworks (Cypress, Selenium)** to improve data reliability.
-- Collaborated closely with backend engineers on **root-cause analysis** and defect prevention.
-- Mentored junior testers and introduced structured QA and validation processes.
-
-**Software QA Engineer** (Oct 2022 – Feb 2023)  
-- Tested backend APIs with emphasis on **missing fields, incorrect values, and unstable integrations**.
-- Built automated checks for dynamic data flows and supported early anomaly detection.
-- Strengthened data validation practices across cross-functional teams.
+- Led quality assurance for large-scale **travel data platforms** (pricing, search, booking flows)
+- Validated complex **API-driven datasets**, focusing on data accuracy and consistency
+- Built and expanded **automation frameworks** (Cypress, Selenium) to improve data reliability
+- Collaborated with backend engineers on **root-cause analysis** and defect prevention
+- Introduced structured **data validation & QA processes** and mentored junior testers
 
 ---
 
