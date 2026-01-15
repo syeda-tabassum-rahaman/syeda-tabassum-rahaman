@@ -5,20 +5,15 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syeda-tabassum-rahaman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/syeda-tabassum-rahaman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:syeda.tabassum.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
-  </a>
   <a href="https://github.com/syeda-tabassum-rahaman/scam-job-detector">
-    <img src="https://img.shields.io/badge/Featured%20Project-Scam%20Job%20Detector-black?style=flat&logo=github" alt="Featured Project" />
+    <img src="https://img.shields.io/badge/Featured%20Project-Scam%20Job%20Detector-black?style=flat&logo=github" />
   </a>
 </p>
 
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/syeda-tabassum-rahaman/
+- Email: syeda.tabassum.work@gmail.com
 
 ---
 
@@ -84,7 +79,7 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ## 💼 Experience
 
-### 🎓 <img src="assets/logos/lewagon.png.png" width="28"/> Le Wagon
+### 🎓 <img src="assets/logos/lewagon.png.png" width="25"/> Le Wagon
 
 **Le Wagon** · Data Science & AI Bootcamp  
 📅 Oct 2025 – Dec 2025  
@@ -97,7 +92,7 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ---
 
-### 🏢 <img src="assets/logos/peakwork.png.gif" width="28"/> Peakwork GmbH
+### 🏢 <img src="assets/logos/peakwork.png.gif" width="25"/> Peakwork GmbH
 
 **Peakwork** · Software QA Lead/ Senior QA Engineer
 **Oct 2022 – Feb 2025 | Düsseldorf, Germany**
@@ -110,7 +105,3 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ---
 
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/syeda-tabassum-rahaman/
-- Email: syeda.tabassum.work@gmail.com
