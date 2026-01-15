@@ -72,13 +72,40 @@ Regression model to predict insurance premium with feature analysis and metrics.
 
 ---
 
-## 🧪 Experience
-**Peakwork GmbH (Germany)** — Software QA Lead / QA Engineer  
-- Validated complex travel-data systems and backend APIs  
-- Led investigation of data inconsistencies across pricing, search, booking flows  
-- Built automation (Cypress/Selenium) to improve data reliability and reduce manual work  
+## 💼 Experience
+
+### 🎓 <img src="assets/logos/lewagon.png" width="28"/> Le Wagon — Data Science & AI Bootcamp
+
+**Le Wagon** · Data Science & AI Bootcamp  
+📅 Oct 2025 – Dec 2025  
+
+- Completed an intensive, project-based bootcamp focused on **Data Science, Machine Learning, and AI**.
+- Built end-to-end projects using **Python, Pandas, NumPy, scikit-learn, Jupyter Notebook**.
+- Worked on **Exploratory Data Analysis (EDA)**, supervised ML models, and evaluation pipelines.
+- Hands-on exposure to **LLMs, RAG workflows, LangChain basics**, and ML deployment concepts.
+- Followed industry-style workflows with **Git, GitHub, documentation, and reproducibility**.
 
 ---
+
+### 🧪 <img src="assets/logos/peakwork.png" width="28"/> Peakwork — Software QA Lead
+
+**Peakwork GmbH** · Düsseldorf, Germany  
+📅 Oct 2022 – Feb 2025  
+
+**Software QA Lead** (Mar 2023 – Feb 2025)  
+- Led quality assurance for large-scale **travel data platforms** involving pricing, search, and booking flows.
+- Validated complex **API-driven datasets** with a strong focus on data accuracy and consistency.
+- Designed and expanded **automation frameworks (Cypress, Selenium)** to improve data reliability.
+- Collaborated closely with backend engineers on **root-cause analysis** and defect prevention.
+- Mentored junior testers and introduced structured QA and validation processes.
+
+**Software QA Engineer** (Oct 2022 – Feb 2023)  
+- Tested backend APIs with emphasis on **missing fields, incorrect values, and unstable integrations**.
+- Built automated checks for dynamic data flows and supported early anomaly detection.
+- Strengthened data validation practices across cross-functional teams.
+
+---
+
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/syeda-tabassum-rahaman/
