@@ -72,7 +72,7 @@ Classification model for credit risk with evaluation and business-friendly insig
 
 ### 🩺 Healthcare Premium Prediction (Codebasics)
 Regression model to predict insurance premium with feature analysis and metrics.  
-🔗 Repo: (coming soon)
+🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
 
 ---
 
