@@ -72,7 +72,7 @@ LLM Fundamentals · RAG Workflows
 * **Focus:** Actuarial risk modeling, automated data validation, and real-time inference for financial services. 
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
 
-### 🏨 Hospitality Domain EDA (Codebasics)
+### 🏨 Hospitality Revenue & Performance Analysis
 *A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
 
 * **Key Achievement:** Automated the tracking of industry-standard hospitality KPIs (**RevPAR, ADR, Occupancy %**) to identify revenue leakage and platform-specific performance trends.
