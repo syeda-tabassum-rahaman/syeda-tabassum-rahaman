@@ -63,6 +63,7 @@ LLM Fundamentals · RAG Workflows
 - Tech Stack: Python, Scikit-Learn, NLP (TF-IDF), SHAP, Streamlit.
 - Focus: Model interpretability, security-centric data pipelines, and practical UI output.
 🔗 Repo: https://github.com/syeda-tabassum-rahaman/scam-job-detector
+streamlit: https://scamjobdetector.streamlit.app/
 
 ### 🩺 Healthcare Premium Prediction 
 *A predictive analytics pipeline designed to automate healthcare premium estimations and support actuarial risk assessment.*
@@ -71,6 +72,7 @@ LLM Fundamentals · RAG Workflows
 * **Tech Stack:** Python, XGBoost, Scikit-Learn, Joblib, Streamlit.
 * **Focus:** Actuarial risk modeling, automated data validation, and real-time inference for financial services. 
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
+Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.app/
 
 ### 🏨 Hospitality Revenue & Performance Analysis
 *A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
