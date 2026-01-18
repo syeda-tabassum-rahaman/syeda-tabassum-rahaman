@@ -48,7 +48,7 @@ I build end-to-end projects with clean pipelines, strong evaluation, and explain
 🔗 Repo: https://github.com/syeda-tabassum-rahaman/scam-job-detector
 streamlit: https://scamjobdetector.streamlit.app/
 
-### 🩺 Healthcare Premium Prediction 
+### 🩺 Healthcare Insurance Premium cost Prediction 
 *A predictive analytics pipeline designed to automate healthcare premium estimations and support actuarial risk assessment.*
 
 * **Key Achievement:** Achieved **98.5% prediction accuracy** using a hybrid regression approach (XGBoost), incorporating a custom validation layer to ensure data integrity.
