@@ -19,38 +19,21 @@
 ## 🎯 Profile
 Former **Software QA Lead** (automation + data validation) transitioning into **Data / ML**.
 I build end-to-end projects with clean pipelines, strong evaluation, and explainability.
+* 🎓 **M.Sc. in Information Engineering and CS** | Rhine-Waal University of Applied Sciences, Germany.
+* 🗣️ **Languages:** English (Fluent) | German (B1/B2 Level).
 
 ---
 
 ## 🧰 Skill Sets
 
-### 🧮 Data & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+| Category | Skills & Tools |
+|---------|----------------|
+| 🧮 **Data & Analysis** | Python · Pandas · NumPy · SQL · Jupyter Notebook |
+| 🤖 **Machine Learning** | scikit-learn · Classification · Regression · Feature Engineering · Model Evaluation  |
+| 🧠 **GenAI (Hands-on)** | LangChain · Hugging Face · LLM Fundamentals · RAG Workflows · XGboost · SHAP(Explainalbe AI) |
+| ⚙️ **MLOps & Backend** | Docker · FastAPI · MLflow · Google Cloud Platform (GCP) |
+| 📊 **Visualization & Tools** | Power BI · Git · GitHub · VS Code |
 
-### 🤖 Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-Classification · Regression · Feature Engineering · Model Evaluation
-
-### 🧠 GenAI (Hands-on)
-![LangChain](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-LLM Fundamentals · RAG Workflows
-
-### ⚙️ MLOps & Backend
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-
-### 📊 Visualization & Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 
 ---
