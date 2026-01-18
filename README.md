@@ -57,23 +57,28 @@ LLM Fundamentals · RAG Workflows
 
 ## ⭐ Featured Projects
 
-### 🔍 Scam Job Detector (NLP Classification)
-Detects fake vs real job postings using ML + explainability (SHAP).  
-**Focus:** clean pipeline, interpretable predictions, practical UI output.  
+### 🔍 AI-Driven Scam Job Detection (NLP & Explainability)
+- Developed a machine learning system to identify fraudulent job postings, prioritizing model transparency and trust.
+- Key Achievement: Integrated SHAP (Explainable AI) to visualize why the model flags a specific post as a scam, addressing the "Black Box" problem in AI.
+- Tech Stack: Python, Scikit-Learn, NLP (TF-IDF), SHAP, Streamlit.
+- Focus: Model interpretability, security-centric data pipelines, and practical UI output.
 🔗 Repo: https://github.com/syeda-tabassum-rahaman/scam-job-detector
 
-### 🏨 Hospitality Domain EDA (Codebasics)
-Exploratory analysis on hospitality booking data (revenue, occupancy, ratings, platforms).  
-🔗 Repo: https://github.com/syeda-tabassum-rahaman/codebasics-hospitality-eda
+### 🩺 Healthcare Premium Prediction 
+*A predictive analytics pipeline designed to automate healthcare premium estimations and support actuarial risk assessment.*
 
-### 💳 Credit Risk Modeling (Codebasics)
-Classification model for credit risk with evaluation and business-friendly insights.  
-🔗 Repo: (coming soon)
-
-### 🩺 Healthcare Premium Prediction (Codebasics)
-Regression model to predict insurance premium with feature analysis and metrics.  
+* **Key Achievement:** Achieved **98.5% prediction accuracy** using a hybrid regression approach (XGBoost), incorporating a custom validation layer to ensure data integrity.
+* **Tech Stack:** Python, XGBoost, Scikit-Learn, Joblib, Streamlit.
+* **Focus:** Actuarial risk modeling, automated data validation, and real-time inference for financial services. 
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
 
+### 🏨 Hospitality Domain EDA (Codebasics)
+*A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
+
+* **Key Achievement:** Automated the tracking of industry-standard hospitality KPIs (**RevPAR, ADR, Occupancy %**) to identify revenue leakage and platform-specific performance trends.
+* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
+* **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
+🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
 ---
 
 ## 💼 Experience
