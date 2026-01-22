@@ -64,6 +64,15 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 * **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
+
+### 🏠 EstateIntel AI: Real Estate RAG Assistant (Generative AI) 
+*A retrieval-augmented AI assistant designed to extract verified insights from real-estate news and market articles.*
+
+* **Key Achievement:** Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that answers user queries **strictly from ingested URLs** and returns **explicit source citations**, minimizing LLM hallucinations.
+* **Tech Stack:** Python, LangChain (RAG), ChromaDB, HuggingFace Embeddings (Alibaba-NLP/gte-base-en-v1.5), Groq (LLaMA 3.3), Streamlit.
+* **Focus:** Information retrieval, semantic search, explainable LLM outputs, and production-ready AI application design.
+🔗 Repo: https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit
+
 ---
 
 ## 💼 Experience
