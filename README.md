@@ -65,7 +65,7 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
 
-### 🏠 EstateIntel AI: Real Estate RAG Assistant (Generative AI) 
+### 🏠 LLM-Powered Real Estate RAG Assistant (Gen AI)
 *A retrieval-augmented AI assistant designed to extract verified insights from real-estate news and market articles.*
 
 * **Key Achievement:** Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that answers user queries **strictly from ingested URLs** and returns **explicit source citations**, minimizing LLM hallucinations.
