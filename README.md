@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Syeda Tabassum Rahaman</h1>
 <p align="center">
-  Data Analytics → Machine Learning → Practical GenAI | Germany 🇩🇪
+  Applied Machine Learning Engineer | Data Science & GenAI (RAG, Explainability) | Germany 🇩🇪
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@
 ---
 
 ## 🎯 Profile
-Former **Software QA Lead** (automation + data validation) transitioning into **Data / ML**.
+Former **Software QA Lead** (automation + data validation) tnow working in **Applied Machine Learning, Data Science, and GenAI.**.
 I build end-to-end projects with clean pipelines, strong evaluation, and explainability.
+
 * 🎓 **M.Sc. in Information Engineering and CS** | Rhine-Waal University of Applied Sciences, Germany.
-* 🗣️ **Languages:** English (Fluent) | German (B1/B2 Level).
+* 🗣️ **Languages:** English (Fluent, C1) | German (telc B2 Level).
 
 ---
 
@@ -57,14 +58,6 @@ streamlit: https://scamjobdetector.streamlit.app/
 🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
 Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.app/
 
-### 🏨 Hospitality Revenue & Performance Analysis
-*A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
-
-* **Key Achievement:** Automated the tracking of industry-standard hospitality KPIs (**RevPAR, ADR, Occupancy %**) to identify revenue leakage and platform-specific performance trends.
-* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
-* **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
-🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
-
 ### 🏠 LLM-Powered Real Estate RAG Assistant (Gen AI)
 *A retrieval-augmented AI assistant designed to extract verified insights from real-estate news and market articles.*
 
@@ -72,6 +65,14 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Tech Stack:** Python, LangChain (RAG), ChromaDB, HuggingFace Embeddings (Alibaba-NLP/gte-base-en-v1.5), Groq (LLaMA 3.3), Streamlit.
 * **Focus:** Information retrieval, semantic search, explainable LLM outputs, and production-ready AI application design.
 🔗 Repo: https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit
+
+### 🏨 Hospitality Revenue & Performance Analysis
+*A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
+
+* **Key Achievement:** Automated the tracking of industry-standard hospitality KPIs (**RevPAR, ADR, Occupancy %**) to identify revenue leakage and platform-specific performance trends.
+* **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
+* **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
+🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
 
 ---
 
