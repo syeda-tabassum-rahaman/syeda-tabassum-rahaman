@@ -17,7 +17,7 @@
 ---
 
 ## 🎯 Profile
-Former **Software QA Lead** (automation + data validation) tnow working in **Applied Machine Learning, Data Science, and GenAI.**.
+Former **Software QA Lead** (automation + data validation) now working in **Applied Machine Learning, Data Science, and GenAI.**.
 I build end-to-end projects with clean pipelines, strong evaluation, and explainability.
 
 * 🎓 **M.Sc. in Information Engineering and CS** | Rhine-Waal University of Applied Sciences, Germany.
