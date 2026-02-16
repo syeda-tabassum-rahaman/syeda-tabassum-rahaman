@@ -46,7 +46,7 @@ I build end-to-end projects with clean pipelines, strong evaluation, and explain
 - Key Achievement: Integrated SHAP (Explainable AI) to visualize why the model flags a specific post as a scam, addressing the "Black Box" problem in AI.
 - Tech Stack: Python, Scikit-Learn, NLP (TF-IDF), SHAP, Streamlit.
 - Focus: Model interpretability, security-centric data pipelines, and practical UI output.
-🔗 Repo: https://github.com/syeda-tabassum-rahaman/scam-job-detector
+- **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/scam-job-detector)
 streamlit: https://scamjobdetector.streamlit.app/
 
 ### 🩺 Healthcare Insurance Premium cost Prediction 
@@ -54,8 +54,8 @@ streamlit: https://scamjobdetector.streamlit.app/
 
 * **Key Achievement:** Achieved **98.5% prediction accuracy** using a hybrid regression approach (XGBoost), incorporating a custom validation layer to ensure data integrity.
 * **Tech Stack:** Python, XGBoost, Scikit-Learn, Joblib, Streamlit.
-* **Focus:** Actuarial risk modeling, automated data validation, and real-time inference for financial services. 
-🔗 Repo: (https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
+* **Focus:** Actuarial risk modeling, automated data validation, and real-time inference for financial services.
+* **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/healthcare-premium-prediction-ml)
 Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.app/
 
 ### 🏠 LLM-Powered Real Estate RAG Assistant (Gen AI)
@@ -64,7 +64,7 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Key Achievement:** Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that answers user queries **strictly from ingested URLs** and returns **explicit source citations**, minimizing LLM hallucinations.
 * **Tech Stack:** Python, LangChain (RAG), ChromaDB, HuggingFace Embeddings (Alibaba-NLP/gte-base-en-v1.5), Groq (LLaMA 3.3), Streamlit.
 * **Focus:** Information retrieval, semantic search, explainable LLM outputs, and production-ready AI application design.
-* * **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit)
+* **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit)
 
 ### 📊 AtliQ Hardware: Business Insights 360 (Enterprise BI)
 *An enterprise-grade Power BI analytics solution designed to transition a global hardware company from static Excel reports to automated, data-driven decision-making.*
@@ -80,7 +80,7 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Key Achievement:** Automated the tracking of industry-standard hospitality KPIs (**RevPAR, ADR, Occupancy %**) to identify revenue leakage and platform-specific performance trends.
 * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 * **Focus:** Revenue management, data cleaning for high-volume booking systems, and market-specific trend analysis. 
-🔗 Repo: (https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
+🔗 Repo: [GitHub Repository](https://github.com/syeda-tabassum-rahaman/hospitality-revenue-performance-analysis)
 
 ---
 
