@@ -64,7 +64,15 @@ Streamlit: https://healthcare-premium-insurance-price-prediction-v2.streamlit.ap
 * **Key Achievement:** Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that answers user queries **strictly from ingested URLs** and returns **explicit source citations**, minimizing LLM hallucinations.
 * **Tech Stack:** Python, LangChain (RAG), ChromaDB, HuggingFace Embeddings (Alibaba-NLP/gte-base-en-v1.5), Groq (LLaMA 3.3), Streamlit.
 * **Focus:** Information retrieval, semantic search, explainable LLM outputs, and production-ready AI application design.
-🔗 Repo: https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit
+* * **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/llm-real-estate-assistant-streamlit)
+
+### 📊 AtliQ Hardware: Business Insights 360 (Enterprise BI)
+*An enterprise-grade Power BI analytics solution designed to transition a global hardware company from static Excel reports to automated, data-driven decision-making.*
+
+* **Key Achievement:** Processed over 1.8 million transaction records to build a dynamic, cross-functional dashboard (Finance, Sales, Supply Chain, Executive), automating financial tracking and mitigating inventory risks (Excess/Out-of-Stock).
+* **Tech Stack:** Microsoft Power BI, DAX, Power Query, MySQL, Data Modeling (Snowflake Schema)
+* **Focus:** Enterprise business intelligence, dynamic benchmarking, ETL performance optimization, and stakeholder-specific UI/UX design
+* **Links:** [GitHub Repository](https://github.com/syeda-tabassum-rahaman/Business_Insights_360_Analytics_Atliq_Hardware) | [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjc0ZDVhM2YtOGEwNS00MDZmLWEwMTAtZDQ0MmRmYmY5MDkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 🏨 Hospitality Revenue & Performance Analysis
 *A Business Intelligence (BI) solution focused on optimizing revenue streams and booking efficiency for the international travel-tech sector.*
