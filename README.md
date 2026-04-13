@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Syeda Tabassum Rahaman</h1>
 <p align="center">
-  Applied Machine Learning Engineer | Data Science & GenAI (RAG, Explainability) | Germany 🇩🇪
+  Quality Assurance Engineer | Data Science & GenAI (RAG, Explainability) | Germany 🇩🇪
 </p>
 
 <p align="center">
